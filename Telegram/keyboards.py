@@ -66,7 +66,7 @@ Donat = InlineKeyboardMarkup(
 code = InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton(text="github", url='https://github.com/artem2012kf/-Terem-code.git'),
+            InlineKeyboardButton(text="github", url='https://github.com/SG-KaAp/ShirBots'),
         ],
     ]
 )
